@@ -1,4 +1,4 @@
-<img alt="Metrics" src="https://raw.githubusercontent.com/Sigma-project/Sigma-project/main/github-metrics.svg" width="50%">
+<img alt="Metrics" src="https://raw.githubusercontent.com/Sigma-project/Sigma-project/main/github-metrics.svg">
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats-fork-red.vercel.app/api?username=Sigma-project&theme=onedark&show_icons=ture&count_private=true" />
 </p>
