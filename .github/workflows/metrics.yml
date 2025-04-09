@@ -50,8 +50,9 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_indepth: yes
+          plugin_languages_indepth_custom: Sigma-project/assignment
           commits_authoring: Sigma-project, Sigma, 80201450+Sigma-project@users.noreply.github.com
-          plugin_languages_analysis_timeout: 300
+          plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 0
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
